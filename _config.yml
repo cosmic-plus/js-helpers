@@ -1,0 +1,9 @@
+name: "helpers"
+url: "https://cosmic.plus/#view:js-helpers"
+
+include: AUTHORS.md, CONTRIBUTING.md, LICENSE.md
+
+titles_from_heading:
+  enabled:     true
+  strip_title: true
+
