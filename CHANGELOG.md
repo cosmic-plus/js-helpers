@@ -19,6 +19,12 @@ Versioning](https://semver.org/spec/v2.0.0.html)**. Version syntax is
 backward-compatibility and can be updated to without risk of breakage. For major
 releases, please check this changelog before upgrading.
 
-## 1.0.0 - 2020-06-13
+## 1.0.1 - 2020-06-14
+
+### Fixed
+
+- Meta: include es5 code in NPM package.
+
+## 1.0.0 - 2020-06-14
 
 Initial release.
