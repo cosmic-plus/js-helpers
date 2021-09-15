@@ -24,16 +24,16 @@
     "publish-release": "npm run tag-release && npm run push-release && npm publish"
   },
   "devDependencies": {
-    "@babel/cli": "^7.10.1",
-    "@babel/core": "^7.10.2",
-    "@babel/plugin-transform-runtime": "^7.10.1",
-    "@babel/preset-env": "^7.10.2",
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/plugin-transform-runtime": "^7.15.0",
+    "@babel/preset-env": "^7.15.6",
     "eslint": "^6.8.0",
-    "jasmine": "^3.5.0",
-    "prettier": "^2.0.5"
+    "jasmine": "^3.9.0",
+    "prettier": "^2.4.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.10.2",
-    "core-js": "^3.6.5"
+    "@babel/runtime": "^7.15.4",
+    "core-js": "^3.17.3"
   }
 }
