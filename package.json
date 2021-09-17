@@ -1,6 +1,6 @@
 {
   "name": "@cosmic-plus/helpers",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Cosmic.plus generic helpers",
   "author": "MisterTicot <mister.ticot@cosmic.plus>",
   "homepage": "https://cosmic.plus/#view:js-helpers",
@@ -32,7 +32,7 @@
     "@kisbox/browserslist-config": "^1.0.0-beta.21",
     "eslint": "^6.8.0",
     "jasmine": "^3.9.0",
-    "prettier": "^2.4.0"
+    "prettier": "^2.4.1"
   },
   "dependencies": {
     "@babel/runtime": "^7.15.4",
